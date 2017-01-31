@@ -562,32 +562,22 @@
             "paddingBottom": "3",
             "images": [
               {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/breanna-henry-wynwood-poster-2000x2344-800x937.jpg",
-                "image": "@PROJECT_PATH@/assets/images/breanna-henry-wynwood-poster-2000x2344.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/breanna-henry-google-banner-2000x603-800x241.jpg",
-                "image": "@PROJECT_PATH@/assets/images/breanna-henry-google-banner-2000x603.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cool-mas-banner-use-2000x1965-800x786.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cool-mas-banner-use-2000x1965.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Creative",
+                "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/breanna-henry-tattoo-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/breanna-henry-tattoo-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wynwood-monkey-use-2000x1965-800x786.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wynwood-monkey-use-2000x1965.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -596,19 +586,30 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/party-mas-banner-use-2000x1965-800x786.jpg",
+                "image": "@PROJECT_PATH@/assets/images/party-mas-banner-use-2000x1965.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mas-filler-panel-and-insert-use-2000x1965-800x786.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mas-filler-panel-and-insert-use-2000x1965.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/dreams-poster-use-2000x1965-800x786.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dreams-poster-use-2000x1965.jpg",
+                "caption": "Type caption here",
+                "active": true
               },
               {
                 "tags": "Beautiful",
@@ -851,46 +852,50 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/google-banner-use-grey-2000x1965-800x786.jpg",
+                "image": "@PROJECT_PATH@/assets/images/google-banner-use-grey-2000x1965.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/breanna-henry-tattoo-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/breanna-henry-tattoo-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/vw-logo-use-2000x1954-800x781.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vw-logo-use-2000x1954.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/3-faces-use-2000x1965-800x786.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3-faces-use-2000x1965.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/stamp-png-use-2000x1965-800x786.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stamp-png-use-2000x1965.jpg",
+                "caption": "Type caption here",
+                "active": true
               },
               {
                 "tags": "Beautiful",
