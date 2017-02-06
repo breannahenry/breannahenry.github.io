@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "illustrator.html",
+    "currentPage": "animate.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -503,6 +503,9 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -513,7 +516,7 @@
           "_params": {
             "paddingTop": "6",
             "paddingBottom": 1,
-            "bgColor": "#fff",
+            "bgColor": "#1f2020",
             "showMeta": true
           },
           "title": "Adobe Photoshop CC",
@@ -609,7 +612,7 @@
             "spacing": 0,
             "showText": false,
             "filter": false,
-            "bgColor": "#FFFFFF",
+            "bgColor": "#1f2020",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true

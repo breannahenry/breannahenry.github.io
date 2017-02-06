@@ -565,6 +565,9 @@ h6,
 #header3-3a .mbr-section-subtitle {
   text-align: center;
 }
+#header3-3a H3 {
+  color: #ffffff;
+}
 #contacts1-32 P {
   text-align: left;
   font-size: 15px;
