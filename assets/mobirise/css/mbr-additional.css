@@ -483,19 +483,25 @@ h6,
 }
 #header3-1x H3 {
   font-family: 'Montserrat', sans-serif;
-  font-size: 72px;
+  font-size: 60px;
+  color: #f28281;
 }
 #features6-28 P {
   font-size: 15px;
+  text-align: left;
+}
+#features6-28 H4 {
+  color: #f28281;
 }
 #contacts1-8 P {
   text-align: left;
   font-size: 15px;
   font-family: 'Montserrat', sans-serif;
+  color: #000000;
 }
 #contacts1-8 STRONG {
   font-size: 15px;
-  color: #cccccc;
+  color: #000000;
 }
 
 
@@ -572,10 +578,14 @@ h6,
   text-align: left;
   font-size: 15px;
   font-family: 'Montserrat', sans-serif;
+  color: #000000;
 }
 #contacts1-32 STRONG {
   font-size: 15px;
-  color: #cccccc;
+  color: #000000;
+}
+#footer1-31 P {
+  color: #000000;
 }
 
 
@@ -652,10 +662,14 @@ h6,
   text-align: left;
   font-size: 15px;
   font-family: 'Montserrat', sans-serif;
+  color: #000000;
 }
 #contacts1-3e STRONG {
   font-size: 15px;
-  color: #cccccc;
+  color: #000000;
+}
+#footer1-3f P {
+  color: #000000;
 }
 
 
@@ -729,10 +743,14 @@ h6,
   text-align: left;
   font-size: 15px;
   font-family: 'Montserrat', sans-serif;
+  color: #000000;
 }
 #contacts1-3j STRONG {
   font-size: 15px;
-  color: #cccccc;
+  color: #000000;
+}
+#footer1-3k P {
+  color: #000000;
 }
 
 
@@ -806,10 +824,14 @@ h6,
   text-align: left;
   font-size: 15px;
   font-family: 'Montserrat', sans-serif;
+  color: #000000;
 }
 #contacts1-3o STRONG {
   font-size: 15px;
-  color: #cccccc;
+  color: #000000;
+}
+#footer1-3p P {
+  color: #000000;
 }
 
 
@@ -883,10 +905,14 @@ h6,
   text-align: left;
   font-size: 15px;
   font-family: 'Montserrat', sans-serif;
+  color: #000000;
 }
 #contacts1-3t STRONG {
   font-size: 15px;
-  color: #cccccc;
+  color: #000000;
+}
+#footer1-3u P {
+  color: #000000;
 }
 
 
@@ -960,10 +986,14 @@ h6,
   text-align: left;
   font-size: 15px;
   font-family: 'Montserrat', sans-serif;
+  color: #000000;
 }
 #contacts1-3y STRONG {
   font-size: 15px;
-  color: #cccccc;
+  color: #000000;
+}
+#footer1-3z P {
+  color: #000000;
 }
 
 
@@ -1029,14 +1059,18 @@ h6,
 #menu-44 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#footer1-45 P {
+  color: #000000;
+}
 #contacts1-46 P {
   text-align: left;
   font-size: 15px;
   font-family: 'Montserrat', sans-serif;
+  color: #000000;
 }
 #contacts1-46 STRONG {
   font-size: 15px;
-  color: #cccccc;
+  color: #000000;
 }
 
 
@@ -1102,6 +1136,9 @@ h6,
 #menu-4c .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#footer1-4d P {
+  color: #000000;
+}
 #header5-4f .mbr-section-title {
   color: #000;
 }
@@ -1113,10 +1150,11 @@ h6,
   text-align: left;
   font-size: 15px;
   font-family: 'Montserrat', sans-serif;
+  color: #000000;
 }
 #contacts1-4e STRONG {
   font-size: 15px;
-  color: #cccccc;
+  color: #000000;
 }
 
 
@@ -1182,12 +1220,16 @@ h6,
 #menu-4k .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#footer1-4l P {
+  color: #000000;
+}
 #contacts1-4m P {
   text-align: left;
   font-size: 15px;
   font-family: 'Montserrat', sans-serif;
+  color: #000000;
 }
 #contacts1-4m STRONG {
   font-size: 15px;
-  color: #cccccc;
+  color: #000000;
 }

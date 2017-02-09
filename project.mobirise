@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "animate.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 167,
+    "uniqCompNum": 168,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -111,7 +111,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/sig-drawn-png-182x128-59.png",
+              "src": "@PROJECT_PATH@/assets/images/sig-2-320x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -125,40 +125,39 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"photoshop.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Adobe Creative Cloud</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dreamweaver.html\">Adobe Dreamweaver CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate.html\">Adobe Animate CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"indesign.html\">Adobe InDesign CC</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\">Autodesk 123D Design&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"finalcutpro.html\">Final Cut Pro X</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"microsoft word.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"breannahenry.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">Discuss IT Topic 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Industry Certificates</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop CC</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SAT</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WORK &nbsp;EXPERIENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.mcdonalds.com/us/en-us.html\">McDonald's Employee</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Hair Stylist &nbsp;Assistant&nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Matthew Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Miguel Balsera</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"breannahenry.github.io/documents/Breanna Henry - Resume.pdf\" target=\"_blank\">RESUME</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"photoshop.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Creative Cloud</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dreamweaver.html\">Adobe Dreamweaver CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate.html\">Adobe Animate CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"indesign.html\">Adobe InDesign CC</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\">Autodesk 123D Design&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"finalcutpro.html\">Final Cut Pro X</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"microsoft word.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Microsoft &nbsp;Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"breannahenry.github.io/documents/Discuss IT Topic 6.pdf\">Discuss IT Topic 6</a></div></div></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft &nbsp;Powerpoint&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Riddles with Reese</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Industry Certificates</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop CC</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SAT</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WORK &nbsp;EXPERIENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.mcdonalds.com/us/en-us.html\">McDonald's Employee</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Hair Stylist &nbsp;Assistant&nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Matthew Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Miguel Balsera</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"breannahenry.github.io/documents/Breanna Henry - Resume.pdf\" target=\"_blank\">RESUME</a></li>"
         },
         {
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-z",
+          "_name": "header2",
+          "_anchor": "header2-4n",
           "_params": {
-            "imageSize": "49",
-            "paddingTop": "3",
-            "paddingBottom": "1",
+            "imageSize": 50,
             "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#fff",
+            "overlay": true,
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000",
             "inverse": false,
             "showTitle": true,
-            "showText": true,
-            "showButtons": true
+            "showText": false,
+            "showButtons": true,
+            "showArrow": true
           },
           "media": {
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1468493858157-0da44aaf1d13-1400x932-61.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x931.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -171,14 +170,14 @@
               "loop": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "class": "mbr-iconfont mbr-iconfont-header2",
               "link": "",
-              "size": 0
+              "size": 250
             }
           },
-          "title": "Welcome",
-          "text": "My names Breanna Henry and my main interest entering my highschool magnet program is technology and my excitement for technology all started with the program my current school now offers.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"more.html\" data-toolbar=\"-mbrBtnMove\">MORE<br></a>"
+          "title": "WELCOME&nbsp;",
+          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"more.html\" data-toolbar=\"-mbrBtnMove\">Biograpghy</a>"
         },
         {
           "_styles": {
@@ -188,7 +187,8 @@
             "H3": {
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "72px"
+              "font-size": "60px",
+              "color": "#f28281"
             }
           },
           "_tags": [
@@ -197,30 +197,13 @@
           "_name": "header3",
           "_anchor": "header3-1x",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgColor": "#efefef",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#ffffff",
             "showMeta": false
           },
           "title": "Goals",
           "meta": ""
-        },
-        {
-          "_name": "footer1",
-          "_anchor": "footer1-2",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2016 Mobirise."
         },
         {
           "_inherit": "features3",
@@ -230,17 +213,21 @@
           "_name": "features6",
           "_styles": {
             "P": {
-              "font-size": "15px"
+              "font-size": "15px",
+              "text-align": "left"
+            },
+            "H4": {
+              "color": "#f28281"
             }
           },
           "_anchor": "features6-28",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -265,7 +252,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#28324e"
+              "color": "#000000"
             }
           },
           "title1": "Dentistry&nbsp;",
@@ -281,7 +268,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#28324e"
+              "color": "#000000"
             }
           },
           "title2": "Orthodontist",
@@ -297,7 +284,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#28324e"
+              "color": "#000000"
             }
           },
           "title3": "Create a Business",
@@ -313,7 +300,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#28324e"
+              "color": "#000000"
             }
           },
           "title4": "Freelance Make-up",
@@ -359,11 +346,12 @@
               "text-align": "left",
               "font-size": "15px",
               "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#000000"
             },
             "STRONG": {
               "font-size": "15px",
-              "color": "#cccccc"
+              "color": "#000000"
             }
           },
           "_anchor": "contacts1-8",
@@ -373,7 +361,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#414141",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -381,7 +369,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/miami-palm-trees-128x64-90.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-128x85.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -396,8 +384,8 @@
             }
           },
           "text1": "<strong>Miami Arts Studio&nbsp;</strong><br>15015 sw 24th Street, Miami, FL 33185",
-          "text2": "<strong>Contact &nbsp; &nbsp;</strong><strong><br></strong>&nbsp; &nbsp; &nbsp;breanna.henryxx@gmail.com<br>Phone: 786-542-4133<br>MAS: 305-485-2323<br>",
-          "text3": "<p>Social Media<br><br>\n<a href=\"http://instagram.com/breannaxhenry\" target=\"_blank\" class=\"text-info\">Instagram</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://twitter.com/breannaxhenry\" target=\"_blank\" class=\"text-info\">Twitter</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
+          "text2": "<strong>Contact &nbsp; &nbsp;</strong><strong><br></strong>&nbsp; &nbsp;breanna.henryxx@gmail.com<br>Phone: 786-542-4133<br>MAS: 305-485-2323<br>",
+          "text3": "<p>Social Media<br><br>\n<a href=\"http://instagram.com/breannaxhenry\" target=\"_blank\" class=\"text-danger\">Instagram</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://twitter.com/breannaxhenry\" target=\"_blank\" class=\"text-danger\">Twitter</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
         }
       ]
     },
@@ -497,7 +485,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"photoshop.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Adobe Creative Cloud</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dreamweaver.html\">Adobe Dreamweaver CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate.html\">Adobe Animate CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"indesign.html\">Adobe InDesign CC</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\">Autodesk 123D Design&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"finalcutpro.html\">Final Cut Pro X</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"microsoft word.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"breannahenry.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">Discuss IT Topic 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Industry Certificates</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop CC</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SAT</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WORK &nbsp;EXPERIENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.mcdonalds.com/us/en-us.html\">McDonald's Employee</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Hair Stylist &nbsp;Assistant&nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Matthew Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Miguel Balsera</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"breannahenry.github.io/documents/Breanna Henry - Resume.pdf\" target=\"_blank\">RESUME</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"photoshop.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Creative Cloud</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dreamweaver.html\">Adobe Dreamweaver CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate.html\">Adobe Animate CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"indesign.html\">Adobe InDesign CC</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\">Autodesk 123D Design&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"finalcutpro.html\">Final Cut Pro X</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"microsoft word.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Microsoft &nbsp;Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"breannahenry.github.io/documents/Discuss IT Topic 6.pdf\">Discuss IT Topic 6</a></div></div></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft &nbsp;Powerpoint&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Riddles with Reese</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Industry Certificates</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop CC</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SAT</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WORK &nbsp;EXPERIENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.mcdonalds.com/us/en-us.html\">McDonald's Employee</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Hair Stylist &nbsp;Assistant&nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Matthew Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Miguel Balsera</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"breannahenry.github.io/documents/Breanna Henry - Resume.pdf\" target=\"_blank\">RESUME</a></li>"
         },
         {
           "_styles": {
@@ -536,8 +524,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/cool-mas-banner-use-2000x1965-800x786.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cool-mas-banner-use-2000x1965.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mas-banner-cool-2000x2452-800x980.png",
+                "image": "@PROJECT_PATH@/assets/images/mas-banner-cool-2000x2452.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -546,8 +534,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/wynwood-monkey-use-2000x1965-800x786.jpg",
-                "image": "@PROJECT_PATH@/assets/images/wynwood-monkey-use-2000x1965.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wynwood-poster-2000x1971-800x788.png",
+                "image": "@PROJECT_PATH@/assets/images/wynwood-poster-2000x1971.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -556,8 +544,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/party-mas-banner-use-2000x1965-800x786.jpg",
-                "image": "@PROJECT_PATH@/assets/images/party-mas-banner-use-2000x1965.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mas-banner-party-2000x2452-800x980.png",
+                "image": "@PROJECT_PATH@/assets/images/mas-banner-party-2000x2452.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -566,8 +554,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mas-filler-panel-and-insert-use-2000x1965-800x786.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mas-filler-panel-and-insert-use-2000x1965.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mas-insert-2000x2485-800x994.png",
+                "image": "@PROJECT_PATH@/assets/images/mas-insert-2000x2485.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -576,8 +564,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dreams-poster-use-2000x1965-800x786.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dreams-poster-use-2000x1965.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dreams-poster-2000x2481-800x992.png",
+                "image": "@PROJECT_PATH@/assets/images/dreams-poster-2000x2481.png",
                 "caption": "Type caption here",
                 "active": true
               },
@@ -631,11 +619,12 @@
               "text-align": "left",
               "font-size": "15px",
               "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#000000"
             },
             "STRONG": {
               "font-size": "15px",
-              "color": "#cccccc"
+              "color": "#000000"
             }
           },
           "_anchor": "contacts1-32",
@@ -645,7 +634,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#414141",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -668,8 +657,8 @@
             }
           },
           "text1": "<strong>Miami Arts Studio&nbsp;</strong><br>15015 sw 24th Street, Miami, FL 33185",
-          "text2": "<strong>Contact &nbsp; &nbsp;</strong><strong><br></strong>&nbsp; &nbsp; &nbsp;breanna.henryxx@gmail.com<br>Phone: 786-542-4133<br>MAS: 305-485-2323<br>",
-          "text3": "<p>Social Media<br><br>\n<a href=\"http://instagram.com/breannaxhenry\" target=\"_blank\" class=\"text-info\">Instagram</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://twitter.com/breannaxhenry\" target=\"_blank\" class=\"text-info\">Twitter</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
+          "text2": "<strong>Contact &nbsp; &nbsp;</strong><strong><br></strong>&nbsp; &nbsp;breanna.henryxx@gmail.com<br>Phone: 786-542-4133<br>MAS: 305-485-2323<br>",
+          "text3": "<p>Social Media<br><br>\n<a href=\"http://instagram.com/breannaxhenry\" target=\"_blank\" class=\"text-danger\">Instagram</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://twitter.com/breannaxhenry\" target=\"_blank\" class=\"text-danger\">Twitter</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
         },
         {
           "_name": "footer1",
@@ -680,13 +669,18 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#5e8f4e",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2016 Mobirise.",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          }
         }
       ]
     },
@@ -786,7 +780,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"photoshop.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Adobe Creative Cloud</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dreamweaver.html\">Adobe Dreamweaver CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate.html\">Adobe Animate CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"indesign.html\">Adobe InDesign CC</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\">Autodesk 123D Design&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"finalcutpro.html\">Final Cut Pro X</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"microsoft word.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"breannahenry.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">Discuss IT Topic 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Industry Certificates</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop CC</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SAT</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WORK &nbsp;EXPERIENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.mcdonalds.com/us/en-us.html\">McDonald's Employee</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Hair Stylist &nbsp;Assistant&nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Matthew Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Miguel Balsera</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"breannahenry.github.io/documents/Breanna Henry - Resume.pdf\" target=\"_blank\">RESUME</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"photoshop.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Creative Cloud</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dreamweaver.html\">Adobe Dreamweaver CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate.html\">Adobe Animate CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"indesign.html\">Adobe InDesign CC</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\">Autodesk 123D Design&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"finalcutpro.html\">Final Cut Pro X</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"microsoft word.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Microsoft &nbsp;Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"breannahenry.github.io/documents/Discuss IT Topic 6.pdf\">Discuss IT Topic 6</a></div></div></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft &nbsp;Powerpoint&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Riddles with Reese</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Industry Certificates</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop CC</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SAT</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WORK &nbsp;EXPERIENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.mcdonalds.com/us/en-us.html\">McDonald's Employee</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Hair Stylist &nbsp;Assistant&nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Matthew Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Miguel Balsera</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"breannahenry.github.io/documents/Breanna Henry - Resume.pdf\" target=\"_blank\">RESUME</a></li>"
         },
         {
           "_styles": {
@@ -858,17 +852,17 @@
                 "thumb": "@PROJECT_PATH@/assets/images/human-face-2000x2452-800x980.png",
                 "image": "@PROJECT_PATH@/assets/images/human-face-2000x2452.png",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/stamp-png-use-2000x1965-800x786.jpg",
-                "image": "@PROJECT_PATH@/assets/images/stamp-png-use-2000x1965.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stamp-2000x2452-800x980.png",
+                "image": "@PROJECT_PATH@/assets/images/stamp-2000x2452.png",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Beautiful",
@@ -920,11 +914,12 @@
               "text-align": "left",
               "font-size": "15px",
               "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#000000"
             },
             "STRONG": {
               "font-size": "15px",
-              "color": "#cccccc"
+              "color": "#000000"
             }
           },
           "_anchor": "contacts1-3e",
@@ -934,7 +929,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#414141",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -957,8 +952,8 @@
             }
           },
           "text1": "<strong>Miami Arts Studio&nbsp;</strong><br>15015 sw 24th Street, Miami, FL 33185",
-          "text2": "<strong>Contact &nbsp; &nbsp;</strong><strong><br></strong>&nbsp; &nbsp; &nbsp;breanna.henryxx@gmail.com<br>Phone: 786-542-4133<br>MAS: 305-485-2323<br>",
-          "text3": "<p>Social Media<br><br>\n<a href=\"http://instagram.com/breannaxhenry\" target=\"_blank\" class=\"text-info\">Instagram</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://twitter.com/breannaxhenry\" target=\"_blank\" class=\"text-info\">Twitter</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
+          "text2": "<strong>Contact &nbsp; &nbsp;</strong><strong><br></strong>&nbsp; &nbsp;breanna.henryxx@gmail.com<br>Phone: 786-542-4133<br>MAS: 305-485-2323<br>",
+          "text3": "<p>Social Media<br><br>\n<a href=\"http://instagram.com/breannaxhenry\" target=\"_blank\" class=\"text-danger\">Instagram</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://twitter.com/breannaxhenry\" target=\"_blank\" class=\"text-danger\">Twitter</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
         },
         {
           "_name": "footer1",
@@ -969,13 +964,18 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#5e8f4e",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2016 Mobirise.",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          }
         }
       ]
     },
@@ -1075,7 +1075,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"photoshop.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Adobe Creative Cloud</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dreamweaver.html\">Adobe Dreamweaver CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate.html\">Adobe Animate CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"indesign.html\">Adobe InDesign CC</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\">Autodesk 123D Design&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"finalcutpro.html\">Final Cut Pro X</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"microsoft word.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"breannahenry.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">Discuss IT Topic 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Industry Certificates</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop CC</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SAT</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WORK &nbsp;EXPERIENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.mcdonalds.com/us/en-us.html\">McDonald's Employee</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Hair Stylist &nbsp;Assistant&nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Matthew Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Miguel Balsera</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"breannahenry.github.io/documents/Breanna Henry - Resume.pdf\" target=\"_blank\">RESUME</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"photoshop.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Creative Cloud</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dreamweaver.html\">Adobe Dreamweaver CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate.html\">Adobe Animate CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"indesign.html\">Adobe InDesign CC</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\">Autodesk 123D Design&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"finalcutpro.html\">Final Cut Pro X</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"microsoft word.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Microsoft &nbsp;Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"breannahenry.github.io/documents/Discuss IT Topic 6.pdf\">Discuss IT Topic 6</a></div></div></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft &nbsp;Powerpoint&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Riddles with Reese</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Industry Certificates</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop CC</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SAT</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WORK &nbsp;EXPERIENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.mcdonalds.com/us/en-us.html\">McDonald's Employee</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Hair Stylist &nbsp;Assistant&nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Matthew Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Miguel Balsera</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"breannahenry.github.io/documents/Breanna Henry - Resume.pdf\" target=\"_blank\">RESUME</a></li>"
         },
         {
           "_styles": {
@@ -1202,11 +1202,12 @@
               "text-align": "left",
               "font-size": "15px",
               "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#000000"
             },
             "STRONG": {
               "font-size": "15px",
-              "color": "#cccccc"
+              "color": "#000000"
             }
           },
           "_anchor": "contacts1-3j",
@@ -1216,7 +1217,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#414141",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1239,8 +1240,8 @@
             }
           },
           "text1": "<strong>Miami Arts Studio&nbsp;</strong><br>15015 sw 24th Street, Miami, FL 33185",
-          "text2": "<strong>Contact &nbsp; &nbsp;</strong><strong><br></strong>&nbsp; &nbsp; &nbsp;breanna.henryxx@gmail.com<br>Phone: 786-542-4133<br>MAS: 305-485-2323<br>",
-          "text3": "<p>Social Media<br><br>\n<a href=\"http://instagram.com/breannaxhenry\" target=\"_blank\" class=\"text-info\">Instagram</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://twitter.com/breannaxhenry\" target=\"_blank\" class=\"text-info\">Twitter</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
+          "text2": "<strong>Contact &nbsp; &nbsp;</strong><strong><br></strong>&nbsp; &nbsp;breanna.henryxx@gmail.com<br>Phone: 786-542-4133<br>MAS: 305-485-2323<br>",
+          "text3": "<p>Social Media<br><br>\n<a href=\"http://instagram.com/breannaxhenry\" target=\"_blank\" class=\"text-danger\">Instagram</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://twitter.com/breannaxhenry\" target=\"_blank\" class=\"text-danger\">Twitter</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
         },
         {
           "_name": "footer1",
@@ -1251,13 +1252,18 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#5e8f4e",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2016 Mobirise.",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          }
         }
       ]
     },
@@ -1357,7 +1363,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"photoshop.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Adobe Creative Cloud</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dreamweaver.html\">Adobe Dreamweaver CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate.html\">Adobe Animate CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"indesign.html\">Adobe InDesign CC</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\">Autodesk 123D Design&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"finalcutpro.html\">Final Cut Pro X</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"microsoft word.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"breannahenry.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">Discuss IT Topic 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Industry Certificates</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop CC</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SAT</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WORK &nbsp;EXPERIENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.mcdonalds.com/us/en-us.html\">McDonald's Employee</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Hair Stylist &nbsp;Assistant&nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Matthew Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Miguel Balsera</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"breannahenry.github.io/documents/Breanna Henry - Resume.pdf\" target=\"_blank\">RESUME</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"photoshop.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Creative Cloud</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dreamweaver.html\">Adobe Dreamweaver CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate.html\">Adobe Animate CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"indesign.html\">Adobe InDesign CC</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\">Autodesk 123D Design&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"finalcutpro.html\">Final Cut Pro X</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"microsoft word.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Microsoft &nbsp;Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"breannahenry.github.io/documents/Discuss IT Topic 6.pdf\">Discuss IT Topic 6</a></div></div></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft &nbsp;Powerpoint&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Riddles with Reese</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Industry Certificates</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop CC</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SAT</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WORK &nbsp;EXPERIENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.mcdonalds.com/us/en-us.html\">McDonald's Employee</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Hair Stylist &nbsp;Assistant&nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Matthew Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Miguel Balsera</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"breannahenry.github.io/documents/Breanna Henry - Resume.pdf\" target=\"_blank\">RESUME</a></li>"
         },
         {
           "_styles": {
@@ -1484,11 +1490,12 @@
               "text-align": "left",
               "font-size": "15px",
               "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#000000"
             },
             "STRONG": {
               "font-size": "15px",
-              "color": "#cccccc"
+              "color": "#000000"
             }
           },
           "_anchor": "contacts1-3o",
@@ -1498,7 +1505,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#414141",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1521,8 +1528,8 @@
             }
           },
           "text1": "<strong>Miami Arts Studio&nbsp;</strong><br>15015 sw 24th Street, Miami, FL 33185",
-          "text2": "<strong>Contact &nbsp; &nbsp;</strong><strong><br></strong>&nbsp; &nbsp; &nbsp;breanna.henryxx@gmail.com<br>Phone: 786-542-4133<br>MAS: 305-485-2323<br>",
-          "text3": "<p>Social Media<br><br>\n<a href=\"http://instagram.com/breannaxhenry\" target=\"_blank\" class=\"text-info\">Instagram</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://twitter.com/breannaxhenry\" target=\"_blank\" class=\"text-info\">Twitter</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
+          "text2": "<strong>Contact &nbsp; &nbsp;</strong><strong><br></strong>&nbsp; &nbsp;breanna.henryxx@gmail.com<br>Phone: 786-542-4133<br>MAS: 305-485-2323<br>",
+          "text3": "<p>Social Media<br><br>\n<a href=\"http://instagram.com/breannaxhenry\" target=\"_blank\" class=\"text-danger\">Instagram</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://twitter.com/breannaxhenry\" target=\"_blank\" class=\"text-danger\">Twitter</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
         },
         {
           "_name": "footer1",
@@ -1533,13 +1540,18 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#5e8f4e",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2016 Mobirise.",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          }
         }
       ]
     },
@@ -1639,7 +1651,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"photoshop.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Adobe Creative Cloud</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dreamweaver.html\">Adobe Dreamweaver CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate.html\">Adobe Animate CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"indesign.html\">Adobe InDesign CC</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\">Autodesk 123D Design&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"finalcutpro.html\">Final Cut Pro X</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"microsoft word.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"breannahenry.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">Discuss IT Topic 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Industry Certificates</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop CC</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SAT</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WORK &nbsp;EXPERIENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.mcdonalds.com/us/en-us.html\">McDonald's Employee</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Hair Stylist &nbsp;Assistant&nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Matthew Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Miguel Balsera</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"breannahenry.github.io/documents/Breanna Henry - Resume.pdf\" target=\"_blank\">RESUME</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"photoshop.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Creative Cloud</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dreamweaver.html\">Adobe Dreamweaver CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate.html\">Adobe Animate CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"indesign.html\">Adobe InDesign CC</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\">Autodesk 123D Design&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"finalcutpro.html\">Final Cut Pro X</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"microsoft word.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Microsoft &nbsp;Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"breannahenry.github.io/documents/Discuss IT Topic 6.pdf\">Discuss IT Topic 6</a></div></div></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft &nbsp;Powerpoint&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Riddles with Reese</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Industry Certificates</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop CC</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SAT</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WORK &nbsp;EXPERIENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.mcdonalds.com/us/en-us.html\">McDonald's Employee</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Hair Stylist &nbsp;Assistant&nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Matthew Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Miguel Balsera</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"breannahenry.github.io/documents/Breanna Henry - Resume.pdf\" target=\"_blank\">RESUME</a></li>"
         },
         {
           "_styles": {
@@ -1766,11 +1778,12 @@
               "text-align": "left",
               "font-size": "15px",
               "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#000000"
             },
             "STRONG": {
               "font-size": "15px",
-              "color": "#cccccc"
+              "color": "#000000"
             }
           },
           "_anchor": "contacts1-3t",
@@ -1780,7 +1793,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#414141",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1803,8 +1816,8 @@
             }
           },
           "text1": "<strong>Miami Arts Studio&nbsp;</strong><br>15015 sw 24th Street, Miami, FL 33185",
-          "text2": "<strong>Contact &nbsp; &nbsp;</strong><strong><br></strong>&nbsp; &nbsp; &nbsp;breanna.henryxx@gmail.com<br>Phone: 786-542-4133<br>MAS: 305-485-2323<br>",
-          "text3": "<p>Social Media<br><br>\n<a href=\"http://instagram.com/breannaxhenry\" target=\"_blank\" class=\"text-info\">Instagram</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://twitter.com/breannaxhenry\" target=\"_blank\" class=\"text-info\">Twitter</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
+          "text2": "<strong>Contact &nbsp; &nbsp;</strong><strong><br></strong>&nbsp; &nbsp;breanna.henryxx@gmail.com<br>Phone: 786-542-4133<br>MAS: 305-485-2323<br>",
+          "text3": "<p>Social Media<br><br>\n<a href=\"http://instagram.com/breannaxhenry\" target=\"_blank\" class=\"text-danger\">Instagram</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://twitter.com/breannaxhenry\" target=\"_blank\" class=\"text-danger\">Twitter</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
         },
         {
           "_name": "footer1",
@@ -1815,13 +1828,18 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#5e8f4e",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2016 Mobirise.",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          }
         }
       ]
     },
@@ -1921,7 +1939,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"photoshop.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Adobe Creative Cloud</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dreamweaver.html\">Adobe Dreamweaver CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate.html\">Adobe Animate CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"indesign.html\">Adobe InDesign CC</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\">Autodesk 123D Design&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"finalcutpro.html\">Final Cut Pro X</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"microsoft word.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"breannahenry.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">Discuss IT Topic 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Industry Certificates</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop CC</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SAT</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WORK &nbsp;EXPERIENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.mcdonalds.com/us/en-us.html\">McDonald's Employee</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Hair Stylist &nbsp;Assistant&nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Matthew Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Miguel Balsera</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"breannahenry.github.io/documents/Breanna Henry - Resume.pdf\" target=\"_blank\">RESUME</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"photoshop.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Creative Cloud</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dreamweaver.html\">Adobe Dreamweaver CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate.html\">Adobe Animate CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"indesign.html\">Adobe InDesign CC</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\">Autodesk 123D Design&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"finalcutpro.html\">Final Cut Pro X</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"microsoft word.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Microsoft &nbsp;Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"breannahenry.github.io/documents/Discuss IT Topic 6.pdf\">Discuss IT Topic 6</a></div></div></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft &nbsp;Powerpoint&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Riddles with Reese</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Industry Certificates</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop CC</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SAT</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WORK &nbsp;EXPERIENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.mcdonalds.com/us/en-us.html\">McDonald's Employee</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Hair Stylist &nbsp;Assistant&nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Matthew Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Miguel Balsera</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"breannahenry.github.io/documents/Breanna Henry - Resume.pdf\" target=\"_blank\">RESUME</a></li>"
         },
         {
           "_styles": {
@@ -2048,11 +2066,12 @@
               "text-align": "left",
               "font-size": "15px",
               "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#000000"
             },
             "STRONG": {
               "font-size": "15px",
-              "color": "#cccccc"
+              "color": "#000000"
             }
           },
           "_anchor": "contacts1-3y",
@@ -2062,7 +2081,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#414141",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -2085,8 +2104,8 @@
             }
           },
           "text1": "<strong>Miami Arts Studio&nbsp;</strong><br>15015 sw 24th Street, Miami, FL 33185",
-          "text2": "<strong>Contact &nbsp; &nbsp;</strong><strong><br></strong>&nbsp; &nbsp; &nbsp;breanna.henryxx@gmail.com<br>Phone: 786-542-4133<br>MAS: 305-485-2323<br>",
-          "text3": "<p>Social Media<br><br>\n<a href=\"http://instagram.com/breannaxhenry\" target=\"_blank\" class=\"text-info\">Instagram</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://twitter.com/breannaxhenry\" target=\"_blank\" class=\"text-info\">Twitter</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
+          "text2": "<strong>Contact &nbsp; &nbsp;</strong><strong><br></strong>&nbsp; &nbsp;breanna.henryxx@gmail.com<br>Phone: 786-542-4133<br>MAS: 305-485-2323<br>",
+          "text3": "<p>Social Media<br><br>\n<a href=\"http://instagram.com/breannaxhenry\" target=\"_blank\" class=\"text-danger\">Instagram</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://twitter.com/breannaxhenry\" target=\"_blank\" class=\"text-danger\">Twitter</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
         },
         {
           "_name": "footer1",
@@ -2097,13 +2116,18 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#5e8f4e",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2016 Mobirise.",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          }
         }
       ]
     },
@@ -2203,7 +2227,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"photoshop.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Adobe Creative Cloud</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dreamweaver.html\">Adobe Dreamweaver CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate.html\">Adobe Animate CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"indesign.html\">Adobe InDesign CC</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\">Autodesk 123D Design&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"finalcutpro.html\">Final Cut Pro X</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"microsoft word.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"breannahenry.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">Discuss IT Topic 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Industry Certificates</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop CC</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SAT</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WORK &nbsp;EXPERIENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.mcdonalds.com/us/en-us.html\">McDonald's Employee</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Hair Stylist &nbsp;Assistant&nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Matthew Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Miguel Balsera</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"breannahenry.github.io/documents/Breanna Henry - Resume.pdf\" target=\"_blank\">RESUME</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"photoshop.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Creative Cloud</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dreamweaver.html\">Adobe Dreamweaver CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate.html\">Adobe Animate CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"indesign.html\">Adobe InDesign CC</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\">Autodesk 123D Design&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"finalcutpro.html\">Final Cut Pro X</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"microsoft word.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Microsoft &nbsp;Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"breannahenry.github.io/documents/Discuss IT Topic 6.pdf\">Discuss IT Topic 6</a></div></div></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft &nbsp;Powerpoint&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Riddles with Reese</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Industry Certificates</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop CC</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SAT</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WORK &nbsp;EXPERIENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.mcdonalds.com/us/en-us.html\">McDonald's Employee</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Hair Stylist &nbsp;Assistant&nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Matthew Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Miguel Balsera</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"breannahenry.github.io/documents/Breanna Henry - Resume.pdf\" target=\"_blank\">RESUME</a></li>"
         },
         {
           "_name": "footer1",
@@ -2214,13 +2238,18 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#5e8f4e",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2016 Mobirise.",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          }
         },
         {
           "_tags": [
@@ -2260,11 +2289,12 @@
               "text-align": "left",
               "font-size": "15px",
               "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#000000"
             },
             "STRONG": {
               "font-size": "15px",
-              "color": "#cccccc"
+              "color": "#000000"
             }
           },
           "_anchor": "contacts1-46",
@@ -2274,7 +2304,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#414141",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -2297,8 +2327,8 @@
             }
           },
           "text1": "<strong>Miami Arts Studio&nbsp;</strong><br>15015 sw 24th Street, Miami, FL 33185",
-          "text2": "<strong>Contact &nbsp; &nbsp;</strong><strong><br></strong>&nbsp; &nbsp; &nbsp;breanna.henryxx@gmail.com<br>Phone: 786-542-4133<br>MAS: 305-485-2323<br>",
-          "text3": "<p>Social Media<br><br>\n<a href=\"http://instagram.com/breannaxhenry\" target=\"_blank\" class=\"text-info\">Instagram</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://twitter.com/breannaxhenry\" target=\"_blank\" class=\"text-info\">Twitter</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
+          "text2": "<strong>Contact &nbsp; &nbsp;</strong><strong><br></strong>&nbsp; &nbsp;breanna.henryxx@gmail.com<br>Phone: 786-542-4133<br>MAS: 305-485-2323<br>",
+          "text3": "<p>Social Media<br><br>\n<a href=\"http://instagram.com/breannaxhenry\" target=\"_blank\" class=\"text-danger\">Instagram</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://twitter.com/breannaxhenry\" target=\"_blank\" class=\"text-danger\">Twitter</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
         }
       ]
     },
@@ -2398,7 +2428,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"photoshop.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Adobe Creative Cloud</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dreamweaver.html\">Adobe Dreamweaver CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate.html\">Adobe Animate CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"indesign.html\">Adobe InDesign CC</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\">Autodesk 123D Design&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"finalcutpro.html\">Final Cut Pro X</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"microsoft word.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"breannahenry.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">Discuss IT Topic 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Industry Certificates</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop CC</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SAT</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WORK &nbsp;EXPERIENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.mcdonalds.com/us/en-us.html\">McDonald's Employee</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Hair Stylist &nbsp;Assistant&nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Matthew Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Miguel Balsera</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"breannahenry.github.io/documents/Breanna Henry - Resume.pdf\" target=\"_blank\">RESUME</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"photoshop.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Creative Cloud</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dreamweaver.html\">Adobe Dreamweaver CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate.html\">Adobe Animate CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"indesign.html\">Adobe InDesign CC</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\">Autodesk 123D Design&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"finalcutpro.html\">Final Cut Pro X</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"microsoft word.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Microsoft &nbsp;Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"breannahenry.github.io/documents/Discuss IT Topic 6.pdf\">Discuss IT Topic 6</a></div></div></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft &nbsp;Powerpoint&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Riddles with Reese</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Industry Certificates</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop CC</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SAT</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WORK &nbsp;EXPERIENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.mcdonalds.com/us/en-us.html\">McDonald's Employee</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Hair Stylist &nbsp;Assistant&nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Matthew Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Miguel Balsera</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"breannahenry.github.io/documents/Breanna Henry - Resume.pdf\" target=\"_blank\">RESUME</a></li>"
         },
         {
           "_name": "footer1",
@@ -2409,13 +2439,18 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#5e8f4e",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2016 Mobirise.",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          }
         },
         {
           "_inherit": "header1",
@@ -2466,11 +2501,12 @@
               "text-align": "left",
               "font-size": "15px",
               "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#000000"
             },
             "STRONG": {
               "font-size": "15px",
-              "color": "#cccccc"
+              "color": "#000000"
             }
           },
           "_anchor": "contacts1-4e",
@@ -2480,7 +2516,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#414141",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -2503,8 +2539,8 @@
             }
           },
           "text1": "<strong>Miami Arts Studio&nbsp;</strong><br>15015 sw 24th Street, Miami, FL 33185",
-          "text2": "<strong>Contact &nbsp; &nbsp;</strong><strong><br></strong>&nbsp; &nbsp; &nbsp;breanna.henryxx@gmail.com<br>Phone: 786-542-4133<br>MAS: 305-485-2323<br>",
-          "text3": "<p>Social Media<br><br>\n<a href=\"http://instagram.com/breannaxhenry\" target=\"_blank\" class=\"text-info\">Instagram</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://twitter.com/breannaxhenry\" target=\"_blank\" class=\"text-info\">Twitter</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
+          "text2": "<strong>Contact &nbsp; &nbsp;</strong><strong><br></strong>&nbsp; &nbsp;breanna.henryxx@gmail.com<br>Phone: 786-542-4133<br>MAS: 305-485-2323<br>",
+          "text3": "<p>Social Media<br><br>\n<a href=\"http://instagram.com/breannaxhenry\" target=\"_blank\" class=\"text-danger\">Instagram</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://twitter.com/breannaxhenry\" target=\"_blank\" class=\"text-danger\">Twitter</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
         }
       ]
     },
@@ -2604,7 +2640,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"photoshop.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Adobe Creative Cloud</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dreamweaver.html\">Adobe Dreamweaver CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate.html\">Adobe Animate CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"indesign.html\">Adobe InDesign CC</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\">Autodesk 123D Design&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"finalcutpro.html\">Final Cut Pro X</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"microsoft word.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"breannahenry.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">Discuss IT Topic 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Industry Certificates</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop CC</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SAT</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WORK &nbsp;EXPERIENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.mcdonalds.com/us/en-us.html\">McDonald's Employee</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Hair Stylist &nbsp;Assistant&nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Matthew Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Miguel Balsera</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"breannahenry.github.io/documents/Breanna Henry - Resume.pdf\" target=\"_blank\">RESUME</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"photoshop.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Creative Cloud</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dreamweaver.html\">Adobe Dreamweaver CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate.html\">Adobe Animate CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"indesign.html\">Adobe InDesign CC</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\">Autodesk 123D Design&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"finalcutpro.html\">Final Cut Pro X</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"microsoft word.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Microsoft &nbsp;Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"breannahenry.github.io/documents/Discuss IT Topic 6.pdf\">Discuss IT Topic 6</a></div></div></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft &nbsp;Powerpoint&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Riddles with Reese</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Industry Certificates</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop CC</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SAT</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WORK &nbsp;EXPERIENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.mcdonalds.com/us/en-us.html\">McDonald's Employee</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Hair Stylist &nbsp;Assistant&nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Matthew Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Miguel Balsera</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"breannahenry.github.io/documents/Breanna Henry - Resume.pdf\" target=\"_blank\">RESUME</a></li>"
         },
         {
           "_name": "footer1",
@@ -2615,13 +2651,18 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#5e8f4e",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2016 Mobirise.",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          }
         },
         {
           "_tags": [
@@ -2633,11 +2674,12 @@
               "text-align": "left",
               "font-size": "15px",
               "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#000000"
             },
             "STRONG": {
               "font-size": "15px",
-              "color": "#cccccc"
+              "color": "#000000"
             }
           },
           "_anchor": "contacts1-4m",
@@ -2647,7 +2689,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#414141",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -2670,8 +2712,8 @@
             }
           },
           "text1": "<strong>Miami Arts Studio&nbsp;</strong><br>15015 sw 24th Street, Miami, FL 33185",
-          "text2": "<strong>Contact &nbsp; &nbsp;</strong><strong><br></strong>&nbsp; &nbsp; &nbsp;breanna.henryxx@gmail.com<br>Phone: 786-542-4133<br>MAS: 305-485-2323<br>",
-          "text3": "<p>Social Media<br><br>\n<a href=\"http://instagram.com/breannaxhenry\" target=\"_blank\" class=\"text-info\">Instagram</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://twitter.com/breannaxhenry\" target=\"_blank\" class=\"text-info\">Twitter</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
+          "text2": "<strong>Contact &nbsp; &nbsp;</strong><strong><br></strong>&nbsp; &nbsp;breanna.henryxx@gmail.com<br>Phone: 786-542-4133<br>MAS: 305-485-2323<br>",
+          "text3": "<p>Social Media<br><br>\n<a href=\"http://instagram.com/breannaxhenry\" target=\"_blank\" class=\"text-danger\">Instagram</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://twitter.com/breannaxhenry\" target=\"_blank\" class=\"text-danger\">Twitter</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
         }
       ]
     }
