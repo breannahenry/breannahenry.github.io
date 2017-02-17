@@ -1,7 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
+
 
 
 
@@ -447,19 +450,19 @@ h6,
 }
 #menu-2 .link[aria-expanded="true"],
 #menu-2 .dropdown-menu {
-  background: #77905d;
+  background: #486e3c;
 }
 #menu-2 .nav-dropdown-sm .link:focus,
 #menu-2 .nav-dropdown-sm .link:hover,
 #menu-2 .nav-dropdown-sm .dropdown-item:focus,
 #menu-2 .nav-dropdown-sm .dropdown-item:hover {
-  background: #88a26f!important;
+  background: #578549!important;
 }
 #menu-2 .navbar,
 #menu-2 .nav-dropdown-sm,
 #menu-2 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-2 .nav-dropdown-sm .dropdown-menu {
-  background: #90a878;
+  background: #5e8f4e;
 }
 #menu-2 .bg-color.transparent .link {
   color: #ffffff;
@@ -476,6 +479,13 @@ h6,
 #menu-2 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#header1-4t .mbr-section-title {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+#header1-4t .mbr-section-lead {
+  font-family: 'Indie Flower', cursive;
+}
 #msg-box8-4u .mbr-section-title,
 #msg-box8-4u p {
   color: #fff;
@@ -488,6 +498,9 @@ h6,
 }
 #contacts1-8 STRONG {
   font-size: 15px;
+  color: #000000;
+}
+#footer1-4l P {
   color: #000000;
 }
 
@@ -525,19 +538,19 @@ h6,
 }
 #menu-30 .link[aria-expanded="true"],
 #menu-30 .dropdown-menu {
-  background: #7d7d7d;
+  background: #486e3c;
 }
 #menu-30 .nav-dropdown-sm .link:focus,
 #menu-30 .nav-dropdown-sm .link:hover,
 #menu-30 .nav-dropdown-sm .dropdown-item:focus,
 #menu-30 .nav-dropdown-sm .dropdown-item:hover {
-  background: #8e8e8e!important;
+  background: #578549!important;
 }
 #menu-30 .navbar,
 #menu-30 .nav-dropdown-sm,
 #menu-30 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-30 .nav-dropdown-sm .dropdown-menu {
-  background: #969696;
+  background: #5e8f4e;
 }
 #menu-30 .bg-color.transparent .link {
   color: #ffffff;
@@ -569,9 +582,6 @@ h6,
 }
 #contacts1-32 STRONG {
   font-size: 15px;
-  color: #000000;
-}
-#footer1-31 P {
   color: #000000;
 }
 
@@ -609,19 +619,19 @@ h6,
 }
 #menu-3b .link[aria-expanded="true"],
 #menu-3b .dropdown-menu {
-  background: #7d7d7d;
+  background: #486e3c;
 }
 #menu-3b .nav-dropdown-sm .link:focus,
 #menu-3b .nav-dropdown-sm .link:hover,
 #menu-3b .nav-dropdown-sm .dropdown-item:focus,
 #menu-3b .nav-dropdown-sm .dropdown-item:hover {
-  background: #8e8e8e!important;
+  background: #578549!important;
 }
 #menu-3b .navbar,
 #menu-3b .nav-dropdown-sm,
 #menu-3b .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-3b .nav-dropdown-sm .dropdown-menu {
-  background: #969696;
+  background: #5e8f4e;
 }
 #menu-3b .bg-color.transparent .link {
   color: #ffffff;
@@ -693,19 +703,19 @@ h6,
 }
 #menu-3g .link[aria-expanded="true"],
 #menu-3g .dropdown-menu {
-  background: #7d7d7d;
+  background: #486e3c;
 }
 #menu-3g .nav-dropdown-sm .link:focus,
 #menu-3g .nav-dropdown-sm .link:hover,
 #menu-3g .nav-dropdown-sm .dropdown-item:focus,
 #menu-3g .nav-dropdown-sm .dropdown-item:hover {
-  background: #8e8e8e!important;
+  background: #578549!important;
 }
 #menu-3g .navbar,
 #menu-3g .nav-dropdown-sm,
 #menu-3g .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-3g .nav-dropdown-sm .dropdown-menu {
-  background: #969696;
+  background: #5e8f4e;
 }
 #menu-3g .bg-color.transparent .link {
   color: #ffffff;
@@ -1256,19 +1266,19 @@ h6,
 }
 #menu-4o .link[aria-expanded="true"],
 #menu-4o .dropdown-menu {
-  background: #7d7d7d;
+  background: #486e3c;
 }
 #menu-4o .nav-dropdown-sm .link:focus,
 #menu-4o .nav-dropdown-sm .link:hover,
 #menu-4o .nav-dropdown-sm .dropdown-item:focus,
 #menu-4o .nav-dropdown-sm .dropdown-item:hover {
-  background: #8e8e8e!important;
+  background: #578549!important;
 }
 #menu-4o .navbar,
 #menu-4o .nav-dropdown-sm,
 #menu-4o .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-4o .nav-dropdown-sm .dropdown-menu {
-  background: #969696;
+  background: #5e8f4e;
 }
 #menu-4o .bg-color.transparent .link {
   color: #ffffff;
@@ -1309,5 +1319,8 @@ h6,
 }
 #contacts1-4s STRONG {
   font-size: 15px;
+  color: #000000;
+}
+#footer1-4l P {
   color: #000000;
 }
