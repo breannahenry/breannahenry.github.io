@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "introduction.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -136,6 +136,17 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".mbr-section-lead": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            }
+          },
           "_anchor": "header1-4t",
           "_params": {
             "parallax": true,
@@ -158,18 +169,7 @@
           },
           "title": "Breanna Henry",
           "text": "\"The best revenge is to be dope <br>and go ham on what you love doing\"",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "center",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            },
-            ".mbr-section-lead": {
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_styles": {
@@ -256,7 +256,7 @@
           },
           "text1": "<strong>Miami Arts Studio&nbsp;</strong><br>15015 sw 24th Street, Miami, FL 33185",
           "text2": "<strong>Contact &nbsp; &nbsp;</strong><strong><br></strong>&nbsp; &nbsp;breanna.henryxx@gmail.com<br>Phone: 786-542-4133<br>MAS: 305-485-2323<br>",
-          "text3": "<p>Social Media<br><br>\n<a href=\"http://instagram.com/breannaxhenry\" target=\"_blank\" class=\"text-warning\">Instagram</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://twitter.com/breannaxhenry\" target=\"_blank\" class=\"text-warning\">Twitter</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
+          "text3": "<p>Social Media</p><br><p><a href=\"https://www.youtube.com/channel/UCH5iMksHEgNjL-k6wPpZuPA\" class=\"text-warning\">Youtube</a></p><p><a href=\"http://instagram.com/breannaxhenry\" target=\"_blank\" class=\"text-warning\">Instagram</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br><a href=\"https://twitter.com/breannaxhenry\" target=\"_blank\" class=\"text-warning\" style=\"background-color: rgb(94, 143, 78); line-height: 1.5;\">Twitter</a></p><br><p><a href=\"https://twitter.com/breannaxhenry\" target=\"_blank\" class=\"text-warning\" style=\"background-color: rgb(94, 143, 78); line-height: 1.5;\"><br></a><br></p>"
         },
         {
           "_tags": [
@@ -2975,7 +2975,7 @@
           },
           "text1": "<strong>Miami Arts Studio&nbsp;</strong><br>15015 sw 24th Street, Miami, FL 33185",
           "text2": "<strong>Contact &nbsp; &nbsp;</strong><strong><br></strong>&nbsp; &nbsp;breanna.henryxx@gmail.com<br>Phone: 786-542-4133<br>MAS: 305-485-2323<br>",
-          "text3": "<p>Social Media<br><br>\n<a href=\"http://instagram.com/breannaxhenry\" target=\"_blank\" class=\"text-warning\">Instagram</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://twitter.com/breannaxhenry\" target=\"_blank\" class=\"text-warning\">Twitter</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
+          "text3": "<p>Social Media</p><br><p><a href=\"http://youtube.com\" class=\"text-warning\">Youtube</a></p><p><a href=\"http://instagram.com/breannaxhenry\" target=\"_blank\" class=\"text-warning\">Instagram</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br><a href=\"https://twitter.com/breannaxhenry\" target=\"_blank\" class=\"text-warning\" style=\"background-color: rgb(94, 143, 78); line-height: 1.5;\">Twitter</a></p><br><p><a href=\"https://twitter.com/breannaxhenry\" target=\"_blank\" class=\"text-warning\" style=\"background-color: rgb(94, 143, 78); line-height: 1.5;\"><br></a><br></p>"
         },
         {
           "_tags": [
