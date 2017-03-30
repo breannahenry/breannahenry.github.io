@@ -488,12 +488,24 @@ h6,
   font-family: 'Indie Flower', cursive;
   color: #000000;
 }
+#header3-56 .mbr-section-title,
+#header3-56 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-58 .mbr-section-title,
+#header3-58 .mbr-section-subtitle {
+  text-align: center;
+}
 #content5-53 .mbr-section-title,
 #content5-53 p {
   color: #fff;
 }
 #content5-53 .mbr-section-title {
   color: #7bd294;
+}
+#header3-57 .mbr-section-title,
+#header3-57 .mbr-section-subtitle {
+  text-align: center;
 }
 #contacts1-8 P {
   text-align: left;
