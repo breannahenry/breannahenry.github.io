@@ -177,6 +177,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#7bd294"
             }
           },
           "_tags": [
@@ -204,7 +207,7 @@
             "showTitle": true,
             "showCaption": true
           },
-          "title": "",
+          "title": "Narrative Film&nbsp;",
           "caption": ""
         },
         {
