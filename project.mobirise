@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "premiere.html",
     "name": "Breanna Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 196,
+    "uniqCompNum": 197,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -3362,16 +3362,15 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-5f",
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-5g",
           "_params": {
-            "imageSize": "48",
             "paddingTop": "4",
-            "paddingBottom": "7",
-            "parallax": true,
+            "paddingBottom": "4",
             "bgImageRadio": false,
+            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#F2F2F2",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -3379,37 +3378,15 @@
             "bgVideoRadio": false,
             "overlay": false,
             "overlayOpacity": 0.5,
-            "overlayColor": "#fff",
+            "overlayColor": "#222",
             "inverse": false,
-            "showTitle": false,
+            "showButtons": true,
             "showText": false,
-            "showButtons": true
+            "showTitle": true
           },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1-1400x931.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "Believer is a creative project made with Adobe Premiere Pro CC to .",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=Ys5eZXjZ38o\" data-toolbar=\"-mbrBtnMove\">Believer</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://www.youtube.com/watch?v=Ys5eZXjZ38o\" data-toolbar=\"-mbrBtnMove\">Watch</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "Believer"
         },
         {
           "_tags": [
